@@ -1,0 +1,638 @@
+body {
+    background-color: hsl(248, 10%, 16%);
+}
+
+.Portfolio {
+    position: absolute;
+    width: 348px;
+    height: 292px;
+    left: 20px;
+    top: 14px;
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+
+    border-color: #aa86b1;
+}
+
+#name {
+    position: relative;
+    width: 400px;
+    height: 26px;
+    left: 20px;
+    top: 30px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 20px;
+    color: #aa86b1;
+}
+
+#career {
+    position: relative;
+    width: 400px;
+    height: 26px;
+    left: 85px;
+    top: 31px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 50px;
+    font-size: 20px;
+    line-height: 20px;
+    color: #aa86b1;
+}
+
+
+img {
+    box-sizing: border-box;
+
+    position: relative;
+    width: 128px;
+    height: 128px;
+    left: 120px;
+    top: 20px;
+
+    border: 2px solid #00FF00;
+    border-radius: 50%;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.MyProjects {
+    position: absolute;
+    width: 940px;
+    height: 100px;
+    left: 400px;
+    top: 15px;
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+#seeall {
+
+    position: relative;
+    width: 71px;
+    height: 18px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    left: 850px;
+    color: #aa86b1;
+    top: -30px;
+}
+
+#myprojects {
+
+    position: relative;
+    width: 400px;
+    height: 26px;
+    left: 20px;
+    top: 10px;
+
+
+    /* identical to box height */
+
+
+    color: #aa86b1;
+}
+
+.site1 {
+    position: absolute;
+    width: 461px;
+    height: 186px;
+    left: 400px;
+    top: 157px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+#title-site1 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    position: relative;
+    left: 20px;
+    top: 10px;
+
+    color: #aa86b1;
+}
+
+#resume1 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #aa86b1;
+    position: relative;
+    left: 20px;
+}
+
+#favorite1 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    color: #aa86b1;
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+
+#branche1 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    color: #aa86b1;
+    position: relative;
+    top: -20px;
+    left: 120px;
+}
+
+#ellipse1 {
+    box-sizing: border-box;
+    border-radius: 50%;
+
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 352px;
+    top: 115px;
+
+    background: #E7DE79;
+    border: 2px solid #837E9F;
+}
+
+#techused1 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    color: #aa86b1;
+    position: absolute;
+    top: 128px;
+    left: 370px;
+}
+
+.site2 {
+    position: absolute;
+    width: 461px;
+    height: 186px;
+    left: 880px;
+    top: 157px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+#title-site2 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    position: relative;
+    left: 20px;
+
+    color: #aa86b1;
+}
+
+#resume2 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #aa86b1;
+    position: relative;
+    left: 20px;
+}
+
+#favorite2 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    color: #aa86b1;
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+
+#branche2 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    color: #aa86b1;
+    position: relative;
+    top: -20px;
+    left: 120px;
+}
+
+#ellipse2 {
+    box-sizing: border-box;
+    border-radius: 50%;
+
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 352px;
+    top: 115px;
+
+    background: #E7DE79;
+    border: 2px solid #837E9F;
+}
+
+#techused2 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+    color: #aa86b1;
+    position: relative;
+    top: -60px;
+    left: 370px;
+}
+
+
+
+.recent-posts {
+    position: absolute;
+    width: 942px;
+    height: 80 px;
+    left: 400px;
+    top: 373px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+#title-post {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    position: relative;
+    left: 20px;
+    top: 0px;
+    color: #aa86b1;
+}
+
+.post1 {
+    position: absolute;
+    width: 942px;
+    height: 80 px;
+    left: 400px;
+    top: 443px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+
+}
+
+#avatar-post1 {
+    position: absolute;
+    left: 20px;
+}
+
+#title-post1 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    position: relative;
+    left: 180px;
+
+    color: #aa86b1;
+}
+
+#time-post1 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    position: relative;
+    left: 180px;
+    top: -20px;
+
+    color: #aa86b1;
+}
+
+#resume-post1 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    position: relative;
+    left: 180px;
+    top: -10px;
+
+    color: #aa86b1;
+}
+
+#hashtags-post1 {
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    position: relative;
+    left: 180px;
+
+    top: 0px;
+
+    color: #aa86b1;
+}
+
+#span1 {
+    position: relative;
+    left: 0px;
+}
+
+#span2 {
+    position: relative;
+    left: 40px;
+}
+
+#span3 {
+    position: relative;
+    left: 80px;
+}
+
+.informations {
+    position: absolute;
+    width: 348px;
+    height: 300px;
+    left: 20px;
+    top: 325px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+#title-info {
+    width: 300px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 16px;
+    height: 16px;
+    color: #aa86b1;
+
+    position: relative;
+    left: 20px;
+}
+
+.info2 {
+    width: 320px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+    height: 16px;
+    color: #aa86b1;
+
+    position: relative;
+    left: 20px;
+}
+
+.feather feather-map-pin {
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+#country {
+    position: absolute;
+    left: 30px;
+    top: 5px;
+}
+
+#current-job {
+    position: absolute;
+    left: 30px;
+    top: 48px;
+}
+
+.a {
+    position: absolute;
+    top: 98px;
+    left: 0px;
+}
+
+#github {
+    position: absolute;
+    top: 98px;
+    left: 30px;
+}
+
+.linkedin {
+    position: absolute;
+    top: 150px;
+    left: 0px;
+}
+
+#linkedin {
+    position: absolute;
+    top: 150px;
+    left: 30px;
+}
+
+.mail {
+    position: absolute;
+    top: 200px;
+    left: 0px;
+}
+
+#email {
+    position: absolute;
+    top: 200px;
+    left: 30px;
+}
+
+
+
+
+.Tecnologies {
+    position: relative;
+    width: 270px;
+    height: 130px;
+    left: 14px;
+    top: 625px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+#title-tech {
+    width: 300px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 16px;
+    height: 16px;
+    color: #aa86b1;
+
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+
+#js {
+    width: 110px;
+    height: 20px;
+    background: #CB92B1;
+    border-radius: 40px;
+    position: relative;
+    left: 20px;
+}
+
+#html {
+    width: 110px;
+    height: 20px;
+    background: #CB92B1;
+    border-radius: 40px;
+    position: relative;
+    left: 140px;
+    top: -20px;
+}
+
+#CSS {
+    width: 110px;
+    height: 20px;
+    background: #CB92B1;
+    border-radius: 40px;
+    position: relative;
+    left: 140px;
+    top: -10px;
+}
+
+#GIT {
+    width: 110px;
+    height: 20px;
+    background: #CB92B1;
+    border-radius: 40px;
+    position: relative;
+    left: 20px;
+    top: -30px;
+}
+
+#GITHUB {
+    width: 110px;
+    height: 20px;
+    background: #CB92B1;
+    border-radius: 40px;
+    position: relative;
+    left: 20px;
+    top: -20px;
+}
+
+
+.Experience {
+    position: absolute;
+    width: 348px;
+    height: 110px;
+    left: 14px;
+    top: 795px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+#title-exp {
+    width: 300px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 16px;
+    height: 16px;
+    color: #aa86b1;
+
+    position: relative;
+    left: 20px;
+
+}
+
+#experience-list {
+    width: 240px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+    height: 16px;
+    color: #aa86b1;
+
+    position: relative;
+    left: 10px;
+
+}
+
+.Education {
+    position: absolute;
+    width: 348px;
+    height: 280px;
+    left: 14px;
+    top: 920px;
+
+    background: #302F3D;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 20px;
+}
+
+#title-education {
+    width: 300px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 16px;
+    height: 16px;
+    color: #aa86b1;
+
+    position: relative;
+    left: 20px;
+}
+
+#education-list {
+    width: 200px;
+    font-family: 'Merriweather Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 16px;
+    height: 16px;
+    color: #aa86b1;
+
+    position: relative;
+    left: 10px;
+}
